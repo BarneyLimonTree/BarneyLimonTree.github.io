@@ -1,0 +1,17 @@
+.carousel-item {
+    max-height: 750px;
+}
+.card-img-top {
+    max-height: 200px;
+}
+
+.card { 
+    margin: 0px auto;
+}
+footer{
+    background-color: #DCDCDC;
+    min-height: 200px;
+}
+.container-xl{
+    padding-top: 90px;
+}
